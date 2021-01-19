@@ -1,0 +1,2 @@
+# seichi915BotForAdmin
+seichi915Adminの集いにいるDiscordBot
